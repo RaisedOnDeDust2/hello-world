@@ -1,3 +1,3 @@
 # hello-world
-just a new repository
-Just a casual gamer, that wants to learn something about programming :)
+just a new repository.
+A casual gamer, that wants to learn something about programming :)
